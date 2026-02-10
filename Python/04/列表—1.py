@@ -29,3 +29,6 @@ print(numbers < numbers2)  # 列表比较
 """
 for i in range(len(numbers)):
     print(numbers[i])
+
+for item in numbers:
+    print(item)
